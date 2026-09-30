@@ -1,0 +1,15 @@
+# macOS files
+.DS_Store
+
+# Python build and environment files
+__pycache__
+*.pyc
+*.pyo
+*~
+*.swp
+build/
+dist/
+*.egg-info/
+.venv/
+env/
+venv/
